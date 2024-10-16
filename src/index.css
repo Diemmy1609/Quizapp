@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  @apply m-0 p-0
+}
+
+body{
+  @apply w-full bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-purple-200 to-90% text-white font-Lobster tracking-wider ;
+}
+
+.btn{
+  @apply border border-blue-500 bg-blue-500 rounded-md px-5 py-2 duration-300
+}
+
+.btn span{
+  @apply font-bold;
+}
+
+.btn:hover{
+  @apply opacity-90;
+}
+.btn_outline{
+@apply bg-transparent; 
+}
+
+.btn_outline:hover{
+  @apply bg-blue-500;
+}
+.index{
+  @apply text-center
+}
+
+.result-message{
+  @apply text-center;
+}

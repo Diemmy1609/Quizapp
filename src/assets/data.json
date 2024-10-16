@@ -1,0 +1,57 @@
+{
+ 
+      "questions": [
+        {
+          "question": "What is the tallest building in the world?",
+          "options": ["Burj Khalifa", "Shanghai Tower", "One World Trade Center", "Empire State Building"],
+          "answer": "Burj Khalifa"
+        },
+        {
+          "question": "Where is the Eiffel Tower located?",
+          "options": ["London", "Berlin", "Paris", "Madrid"],
+          "answer": "Paris"
+        },
+        {
+          "question": "Which landmark is known as the 'Symbol of Freedom'?",
+          "options": ["Statue of Liberty", "Big Ben", "Colosseum", "Sydney Opera House"],
+          "answer": "Statue of Liberty"
+        },
+        {
+          "question": "What ancient structure is located in Giza, Egypt?",
+          "options": ["Great Wall", "Machu Picchu", "Pyramids of Giza", "Stonehenge"],
+          "answer": "Pyramids of Giza"
+        },
+        {
+          "question": "Which city is home to the Colosseum?",
+          "options": ["Athens", "Rome", "Istanbul", "Cairo"],
+          "answer": "Rome"
+        },
+        {
+          "question": "What is the famous clock tower in London called?",
+          "options": ["Big Ben", "Tower Bridge", "London Eye", "The Shard"],
+          "answer": "Big Ben"
+        },
+        {
+          "question": "Where can you find the Taj Mahal?",
+          "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
+          "answer": "India"
+        },
+        {
+          "question": "Which landmark is found in Sydney, Australia?",
+          "options": ["Eiffel Tower", "Sydney Opera House", "Colosseum", "Statue of Liberty"],
+          "answer": "Sydney Opera House"
+        },
+        {
+          "question": "Which structure is known as a symbol of ancient Greece?",
+          "options": ["The Colosseum", "The Parthenon", "The Great Wall", "Machu Picchu"],
+          "answer": "The Parthenon"
+        },
+        {
+          "question": "What is the largest religious monument in the world?",
+          "options": ["Angkor Wat", "St. Peter's Basilica", "Mecca", "Notre-Dame Cathedral"],
+          "answer": "Angkor Wat"
+        }
+      ]
+    }
+    
+ 
