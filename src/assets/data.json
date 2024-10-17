@@ -1,57 +1,56 @@
 {
  
-      "questions": [
-        {
-          "question": "What is the tallest building in the world?",
-          "options": ["Burj Khalifa", "Shanghai Tower", "One World Trade Center", "Empire State Building"],
-          "answer": "Burj Khalifa"
-        },
-        {
-          "question": "Where is the Eiffel Tower located?",
-          "options": ["London", "Berlin", "Paris", "Madrid"],
-          "answer": "Paris"
-        },
-        {
-          "question": "Which landmark is known as the 'Symbol of Freedom'?",
-          "options": ["Statue of Liberty", "Big Ben", "Colosseum", "Sydney Opera House"],
-          "answer": "Statue of Liberty"
-        },
-        {
-          "question": "What ancient structure is located in Giza, Egypt?",
-          "options": ["Great Wall", "Machu Picchu", "Pyramids of Giza", "Stonehenge"],
-          "answer": "Pyramids of Giza"
-        },
-        {
-          "question": "Which city is home to the Colosseum?",
-          "options": ["Athens", "Rome", "Istanbul", "Cairo"],
-          "answer": "Rome"
-        },
-        {
-          "question": "What is the famous clock tower in London called?",
-          "options": ["Big Ben", "Tower Bridge", "London Eye", "The Shard"],
-          "answer": "Big Ben"
-        },
-        {
-          "question": "Where can you find the Taj Mahal?",
-          "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
-          "answer": "India"
-        },
-        {
-          "question": "Which landmark is found in Sydney, Australia?",
-          "options": ["Eiffel Tower", "Sydney Opera House", "Colosseum", "Statue of Liberty"],
-          "answer": "Sydney Opera House"
-        },
-        {
-          "question": "Which structure is known as a symbol of ancient Greece?",
-          "options": ["The Colosseum", "The Parthenon", "The Great Wall", "Machu Picchu"],
-          "answer": "The Parthenon"
-        },
-        {
-          "question": "What is the largest religious monument in the world?",
-          "options": ["Angkor Wat", "St. Peter's Basilica", "Mecca", "Notre-Dame Cathedral"],
-          "answer": "Angkor Wat"
-        }
-      ]
+  "questions": [
+    {
+      "question": "What is the tallest building in the world?",
+      "options": ["A. Burj Khalifa", "B. Shanghai Tower", "C. One World Trade Center", "D. Empire State Building"],
+      "answer": "A. Burj Khalifa"
+    },
+    {
+      "question": "Where is the Eiffel Tower located?",
+      "options": ["A. London", "B. Berlin", "C. Paris", "D. Madrid"],
+      "answer": "C. Paris"
+    },
+    {
+      "question": "Which landmark is known as the 'Symbol of Freedom'?",
+      "options": ["A. Statue of Liberty", "B. Big Ben", "C. Colosseum", "D. Sydney Opera House"],
+      "answer": "A. Statue of Liberty"
+    },
+    {
+      "question": "What ancient structure is located in Giza, Egypt?",
+      "options": ["A. Great Wall", "B. Machu Picchu", "C. Pyramids of Giza", "D. Stonehenge"],
+      "answer": "C. Pyramids of Giza"
+    },
+    {
+      "question": "Which city is home to the Colosseum?",
+      "options": ["A. Athens", "B. Rome", "C. Istanbul", "D. Cairo"],
+      "answer": "B. Rome"
+    },
+    {
+      "question": "What is the famous clock tower in London called?",
+      "options": ["A. Big Ben", "B. Tower Bridge", "C. London Eye", "D. The Shard"],
+      "answer": "A. Big Ben"
+    },
+    {
+      "question": "Where can you find the Taj Mahal?",
+      "options": ["A. India", "B. Pakistan", "C. Bangladesh", "D. Nepal"],
+      "answer": "A. India"
+    },
+    {
+      "question": "Which landmark is found in Sydney, Australia?",
+      "options": ["A. Eiffel Tower", "B. Sydney Opera House", "C. Colosseum", "D. Statue of Liberty"],
+      "answer": "B. Sydney Opera House"
+    },
+    {
+      "question": "Which structure is known as a symbol of ancient Greece?",
+      "options": ["A. The Colosseum", "B. The Parthenon", "C. The Great Wall", "D. Machu Picchu"],
+      "answer": "B. The Parthenon"
+    },
+    {
+      "question": "What is the largest religious monument in the world?",
+      "options": ["A. Angkor Wat", "B. St. Peter's Basilica", "C.Mecca", "D. Notre-Dame Cathedral"],
+      "answer": "A. Angkor Wat"
     }
-    
- 
+  ]
+}
+

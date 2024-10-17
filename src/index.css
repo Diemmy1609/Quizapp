@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Lobster&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -7,11 +9,11 @@
 }
 
 body{
-  @apply w-full bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-purple-200 to-90% text-white font-Lobster tracking-wider ;
+  @apply w-full bg-[#EDE8E3] font-Jost tracking-wider ;
 }
 
 .btn{
-  @apply border border-blue-500 bg-blue-500 rounded-md px-5 py-2 duration-300
+  @apply border border-yellow-500 rounded-md px-5 py-2 duration-300
 }
 
 .btn span{
@@ -26,7 +28,7 @@ body{
 }
 
 .btn_outline:hover{
-  @apply bg-blue-500;
+  @apply bg-yellow-500;
 }
 .index{
   @apply text-center
